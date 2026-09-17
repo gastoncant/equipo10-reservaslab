@@ -24,10 +24,10 @@ Lograr que cada reserva quede confirmada sin superposición y con responsable re
 - Reserva de aulas distintas al laboratorio.
 
 ## Integrantes
-- (nombre 1) — Coordinador/a
-- (nombre 2) — Relator/a
-- (nombre 3) — Verificador/a
-- (nombre 4) — Responsable de evidencias
+- Facundo Casella — Coordinador/a
+- Facundo Casella — Relator/a
+- Gastón Cantero — Verificador/a
+- Gastón Cantero — Responsable de evidencias
 
 ## Estado
 Versión inicial de análisis.
